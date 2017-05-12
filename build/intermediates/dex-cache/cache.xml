@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_8c6567c664f2eb6c1092d64890358a4fb0b17334/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_0f2bc9f2c87498b1cea50df17279ad74c5fc400b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_a2388f36668ebcb2f54924ea66fe64d44ab24856/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4e84217b30f5346361e4c8884a0a3a90f376b91">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f5c41661716a8726b4e82a32526482c53efa7b2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_93c4ae23892a54a7b319b1af29a17a35d0054e00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.1_c095f4cd7ecc26d7bf84d904f96e543b725f01a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_eb38a4534fe2527852295133d0b051ee48bcc076/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_33b5e5726957dd3fa565b4393fcce12d90a32a67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_094fb2aa65b95382d22cd4d3993d2dca721b483f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_b4582c7d00c28ab9ea545078a7ee5b4c30e4f023/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.1_f51f91ffcda5c41c8bb2ec2dfd1b56ca6ea32c8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1cb9df59176dc9406d29630be2d578f1563d0204">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d556b7f8f769cb42681c9f584724dac29c8cf488/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_20b50f64e8ca8b062b11a680ebbc9f0f4e947180/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_513bef899d9905fbc7030bd9c9bc147008475181/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_ceb50b4eba6dfd32545f4ea6326087ba241b9ad9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_d1d870d13ece53c73c769831f4a078d7794fc925/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_ad2b92ef431995e2f0edb5eae94b0e2ebcaf894c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_927692309f6a15a8e302e587073aba5ff2ede0a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_ddd0c12053abb7dbb49f8a6742378fce87776129/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_b0b5d561b2e7f7452080d3fe57c020c67438abe7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_0103c5c637e40f69e0614e626c00863d3bc3704c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_b0edf2c5db5732ce4b4e6b4d7db00e023cc92d82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_8ee9f786570b6da6d5ab7b0a2d324a87d3e3946f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_9ec59616b88d874f842d1142e2d4091d40d8e50a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_5def57daa5de2917a720b86e756de916fb0ea959/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_6f2882837fb9e950f23228ce2a4f8993790db33e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_682e8f0d71e3307f417dd59f6c46fce3359c7d63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_5dfc956ed100972a9ce65b329fe3d35d5fddbfa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_152a9737e929d9e46347fef62aad3127a5c812f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_7a5cacfd9429d1085efd72245d16e1e963ae7fec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_1e9436333fe51bc5045f94e59474f8612132bcbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_dd45d0689fba6f07ee5e7b7276316db63838f82d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.0.1_9520cfac63407fcd1c231c2580713c73c7c286e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_1ecce660fbe23b8c9ba88a02c0e85489fa63514a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.1_3a448ed31b39b21320e992a38689a7a1f041337f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_b50dbdaf5121764980c336b70bdeb0e935f67129/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_37e71ee1f966e03c43e6f5714cf1ebe9b1dd486c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_831aab020afa0ac50faeb4c8e3a1a30a2a4a8bb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_800c9d1071585e2f0def60b443a6e47ade3c6b59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_c9277b30102ecc4b41878184e9202caffda9e6e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_77cb993dd45b45e73b3448cd01023d574d9df0b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_7c068f115a3c7fda8c5bf4d333ba462d34ab3185/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_e6ebb77192e6956737125e687feef5697c39c0d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.1_534a6fd1d4f33d6418d60af6e0ff40d319bbe2ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_712475c52ff9ec47e9f3e027784016e03bf4b662/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_194d209db93ca8b145a65248b6554cd6cf04e836/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_da1626f8ad4ba6c206b707b013dbe6e0e90f2831/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.1_3509e3f771f03685dfdf2d43c63fd9d7c450ae5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_84f8b138117cbe3fcee048e4f4841680e4f88f0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_7b52c7ac324dc3628d6cba587000f939d1e4d31a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_2b2e216e31d9848b90fcd23f223b17bfb686ff39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_36380d2b86a9ea1b1d1733e7cdada1796eaaa54e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_ef6281cfbd314e9c199bb73e3170f8f4c4bc4a92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_d5df167dd092be4a5e2c1dbc7b2fe5e44c7d4096/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_1b0a0afe1a729c297acdbacc1319d3c98616f780/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_1dd12c7f55afd8fa4bc8b72f4932cded778a634a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_8b0c9651281b49a00cafeaaa0b76962e5c36fa76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_bc2ab57c96cc283b9147e5001c9e7adc12e8f66b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_b6b5fe47b9afa7bf5b465b11918e841ca1125939/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_2a8ee7a47177642ae3320c168e0288c79c122bd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_9b1cb7a167d6b86938bf15ba49e8cf47abec5ddc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_a7572df9dd310562c8ed339a2e6d63b4674afba1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_e02c0883946d675662da4ee4a97d3527b5e89cb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_31d9d296e75f060051fa25727ebf83ec8bd8f759/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_5702d0c5a46f57b100e830766687d8f95a22e188/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_b4adfcf739ca03d8d76ddfef47b25f1a81bca441/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/anshu/AndroidStudioProjects/DE_1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_981726cf100dae83b8dca31edacbcb1afa6e286f/classes.dex" />
+    </item>
+
+</items>
